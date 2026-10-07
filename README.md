@@ -6,12 +6,12 @@ Author: Ayush Kushwaha (Sample Project)
 
 Description: A basic crowd monitoring system using OpenCV and Python.
 
+> **Project status:** Educational prototype for learning computer-vision based crowd detection.
+
 Features:
 
 - Detect people in video using HOG + SVM
-
 - Count people in each frame
-
 - Raise alert if crowd exceeds a threshold
 
 import cv2 import imutils from datetime import datetime
